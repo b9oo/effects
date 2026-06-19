@@ -1,12 +1,12 @@
 {
-    "name": "cinematic-effects",
-    "description": "Adds cinematic effects to Arcade games",
+    "name": "effects",
     "version": "0.0.1",
+    "description": "Cinematic effects for MakeCode Arcade",
     "dependencies": {
         "device": "*"
     },
     "files": [
-        "main.ts",
+        "main.ts"
         "README.md"
     ]
 }
