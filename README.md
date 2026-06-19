@@ -17,7 +17,7 @@ Add cinematic effects to your MakeCode Arcade games!
 1. Open MakeCode Arcade.
 2. Open your project.
 3. Click **Extensions**.
-4. Paste the GitHub repository URL.
+4. Paste this GitHub repository URL:https://github.com/b9oo/effects
 5. Click **Import**.
 
 ## Blocks
