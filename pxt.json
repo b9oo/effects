@@ -1,12 +1,12 @@
 {
     "name": "cinematic-effects",
     "description": "Adds cinematic effects to Arcade games",
+    "version": "0.0.1",
     "dependencies": {
         "device": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
         "README.md"
-        "icon.png"
     ]
 }
