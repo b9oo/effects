@@ -1,12 +1,12 @@
 {
     "name": "effects",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Cinematic effects for MakeCode Arcade",
     "dependencies": {
         "device": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
         "README.md"
     ]
 }
